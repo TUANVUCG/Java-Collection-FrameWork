@@ -1,4 +1,6 @@
-package HashMap_LinkedHashMap_TreeMap;
+package HashMap_HashSet;
+
+import HashMap_HashSet.Student;
 
 import java.util.HashMap;
 import java.util.HashSet;

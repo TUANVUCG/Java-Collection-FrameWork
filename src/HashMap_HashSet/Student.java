@@ -1,4 +1,4 @@
-package HashMap_LinkedHashMap_TreeMap;
+package HashMap_HashSet;
 
 public class Student {
     private String name;
